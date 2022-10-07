@@ -1,0 +1,46 @@
+<dotnetbarlayout version="6" zorder="4,5,2,1">
+  <docksite size="0" dockingside="Top" originaldocksitesize="0" />
+  <docksite size="70" dockingside="Bottom" originaldocksitesize="0">
+    <dockcontainer orientation="1" w="0" h="0">
+      <barcontainer w="1917" h="67">
+        <bar name="barBottomInfor" dockline="0" layout="2" dockoffset="0" state="2" dockside="4" visible="true">
+          <items>
+            <item name="dockContainerItem19" origBar="" origPos="-1" pos="0" />
+          </items>
+        </bar>
+      </barcontainer>
+    </dockcontainer>
+  </docksite>
+  <docksite size="303" dockingside="Left" originaldocksitesize="0">
+    <dockcontainer orientation="1" w="0" h="0">
+      <barcontainer w="300" h="845">
+        <bar name="barNavigation" dockline="0" layout="2" dockoffset="0" state="2" dockside="1" visible="true" seldocktab="0">
+          <items>
+            <item name="dockContainerItem15" origBar="" origPos="-1" pos="0" />
+            <item name="dockContainerItem1" origBar="" origPos="-1" pos="1" />
+            <item name="dockContainerItemTool" origBar="" origPos="-1" pos="2" />
+          </items>
+        </bar>
+      </barcontainer>
+      <barcontainer w="300" h="102">
+        <bar name="barTool" dockline="0" layout="2" dockoffset="102" state="2" dockside="1" visible="false" />
+      </barcontainer>
+    </dockcontainer>
+  </docksite>
+  <docksite size="0" dockingside="Right" originaldocksitesize="0" />
+  <documents>
+    <dockcontainer orientation="1" w="0" h="0">
+      <barcontainer w="1039" h="61">
+        <bar name="barMain3D" dockline="0" layout="2" dockoffset="0" state="2" dockside="5" visible="true">
+          <items>
+            <item name="dockContainerItem21" origBar="" origPos="-1" pos="0" />
+          </items>
+        </bar>
+      </barcontainer>
+      <barcontainer w="1039" h="61">
+        <bar name="barAttribute" dockline="0" layout="2" dockoffset="0" state="2" dockside="5" visible="false" />
+      </barcontainer>
+    </dockcontainer>
+  </documents>
+  <bars />
+</dotnetbarlayout>
