@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Group name="管线">
+  <Group name="京雄模型">
+    <Group name="桥">
+      <Layer Type="Model" NodeName="石雄右线-单线-60号-74" sConnectionString="D:\项目数据\京雄5标-架梁工程\箱梁模型\4-石雄右线-单线-60号-74号.xlsx"  SheetName="" isStreaming="1" blockwith="5000">
+        <GeoProperty GeoX="GeoX" GeoY="GeoY" GeoZ="GeoZ" />
+        <FeatureProperties>
+          <Property name="File Name" value="xpl2\[FileName].xpl2" />
+          <Property name="Yaw" value="[Yaw]" />
+          <Property name="Pitch" value="[Pitch]" />
+          <Property name="Roll" value="[Roll]" />
+          <Property name="Scale X" value="[ScaleX]" />
+          <Property name="Scale Y" value="[ScaleY]" />
+          <Property name="Scale Z" value="[ScaleZ]" />
+          <Property name="Altitude Method" value="11" />
+        </FeatureProperties>
+      </Layer>
+      <Layer Type="Model" NodeName="2-动车走行线右线-单线有砟-68号-100号" sConnectionString="D:\项目数据\京雄5标-架梁工程\箱梁模型\2-动车走行线右线-单线有砟-68号-100号.xlsx"  SheetName="" isStreaming="1" blockwith="5000">
+        <GeoProperty GeoX="GeoX" GeoY="GeoY" GeoZ="GeoZ" />
+        <FeatureProperties>
+          <Property name="File Name" value="xpl2\[FileName].xpl2" />
+          <Property name="Yaw" value="[Yaw]" />
+          <Property name="Pitch" value="[Pitch]" />
+          <Property name="Roll" value="[Roll]" />
+          <Property name="Scale X" value="[ScaleX]" />
+          <Property name="Scale Y" value="[ScaleY]" />
+          <Property name="Scale Z" value="[ScaleZ]" />
+          <Property name="Altitude Method" value="11" />
+        </FeatureProperties>
+      </Layer>
+      <Layer Type="Model" NodeName="石雄右线-单线-60号-74-1" sConnectionString="D:\项目数据\京雄5标-架梁工程\箱梁模型\4-石雄右线-单线-60号-74号.csv" SheetName="" isStreaming="1" blockwith="5000">
+        <GeoProperty GeoX="GeoX" GeoY="GeoY" GeoZ="GeoZ" />
+        <FeatureProperties>
+          <Property name="File Name" value="xpl2\[FileName].xpl2" />
+          <Property name="Yaw" value="[Yaw]" />
+          <Property name="Pitch" value="[Pitch]" />
+          <Property name="Roll" value="[Roll]" />
+          <Property name="Scale X" value="[ScaleX]" />
+          <Property name="Scale Y" value="[ScaleY]" />
+          <Property name="Scale Z" value="[ScaleZ]" />
+          <Property name="Altitude Method" value="11" />
+        </FeatureProperties>
+      </Layer>
+      <Layer Type="PointLayer" NodeName="石雄右线-单线-60号-74" sConnectionString="D:\项目数据\京雄5标-架梁工程\箱梁模型\4-石雄右线-单线-60号-74号.xlsx"  SheetName="" isStreaming="1" blockwith="5000">
+        <GeoProperty GeoX="GeoX" GeoY="GeoY" GeoZ="GeoZ" />
+        <FeatureProperties>
+          <Property name="Type" value="Text Label" />
+          <Property name="Text" value="[FileName]" />
+          <Property name="Altitude Method" value="11" />
+          <Property name="Text Size" value="8" />
+          <Property name="Text Color" value="65813750‬" />
+          <Property name="Scale" value="10" />
+          <Property name="Tool Tip" value="类别:[FileName] " />
+        </FeatureProperties>
+      </Layer>
+      <Layer Type="PointLayer" NodeName="1给水_管点" sConnectionString="D:\软件开发\TSDIPro_虚拟施工\CreatePipleModel\bin\建模结果\re\1给水_管点.shp" isStreaming="1" blockwith="10000">
+        <FeatureProperties>
+          <Property name="Type" value="Text Label" />
+          <Property name="Text" value="[物探点号]" />
+          <Property name="Altitude Method" value="11" />
+          <Property name="Text Size" value="8" />
+          <Property name="Text Color" value="-1" />
+          <Property name="Scale" value="0.1" />
+          <Property name="Tool Tip" value="类别:[类别] 特征:[特征] 附属物:[附属物] " />
+        </FeatureProperties>
+      </Layer>
+      <![CDATA[]]>
+      <Layer Type="PolylineLayer" NodeName="1给水_管线" sConnectionString="D:\软件开发\TSDIPro_虚拟施工\CreatePipleModel\bin\建模结果\re\1给水_管线.shp" isStreaming="1" blockwith="10000">
+        <FeatureProperties>
+          <Property name="Line Color" value="-65536" />
+          <Property name="Line Width" value="-2" />
+          <Property name="Altitude Method" value="11" />
+          <Property name="Tool Tip" value="管径:[管径] 类别:[管线亚级类]" />
+        </FeatureProperties>
+      </Layer>
+      <Layer Type="PolylineLayer" NodeName="线" sConnectionString="I:\程序测试数据\矢量导入导出\线.sqlite" LayerName="1" isStreaming="1" blockwith="10000">
+        <FeatureProperties>
+          <Property name="Line Color" value="-65536" />
+          <Property name="Line Width" value="-2" />
+          <Property name="Altitude Method" value="11" />
+        </FeatureProperties>
+      </Layer>
+      <Layer Type="PolygonLayer" NodeName="多边形" sConnectionString="I:\程序测试数据\矢量导入导出\polygon.shp" isStreaming="1" blockwith="10000">
+        <FeatureProperties>
+          <Property name="Line Color" value="-65536" />
+          <Property name="Line Width" value="-2" />
+          <Property name="Fill Color" value="-65536" />
+          <Property name="Fill Opacity" value="10" />
+          <Property name="Altitude Method" value="11" />
+        </FeatureProperties>
+      </Layer>
+    </Group>
+  </Group>
+</Group>

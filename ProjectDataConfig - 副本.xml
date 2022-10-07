@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectDataSection>
+  <Project name="JH" PlugName="">
+    <data name="场景文件" value="\\172.16.76.12\76.22-data-6\2_三维建模项目\2018J京沪运维\场景发布\20180419\Default.fly" />
+    <data name="线位文件" value="\\172.16.76.12\gcsys\航测遥感室\2020-2-大张运维方案向陆部长汇报0920\素材库\应急救援\京沪三维中线运营里程K-新.dat" />
+    <data name="坐标系参数" value="" />
+    <data name="工点表" value="" />
+    <data name="设备表" value="" />
+  </Project>
+  <SelectProject name="JH" />
+</ProjectDataSection>

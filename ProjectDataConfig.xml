@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectDataSection>
+  <Project name="集大原-山西段" PlugName="">
+    <data name="场景文件" value="D:\projects\jdy3d_v1\地理注记.fly" />
+    <data name="线位文件" value="E:\projects\jdy3d_v1\项目配置文件\原大三维中线0-152.8.dat" />
+    <data name="坐标系参数" value="E:\projects\jdy3d_v1\项目配置文件\集大原工程坐标系-约束-.prj" />
+    <data name="工点表" value="E:\projects\jdy3d_v1\项目配置文件\原大三维中线0-152.8工点表.txt" />
+    <data name="设备表" value="" />
+  </Project>
+  <SelectProject name="集大原-山西段" />
+</ProjectDataSection>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MenuSettings>
+  <M数据导入 Visible="True">
+    <M矢量数据 Visible="True" />
+    <M影像数据 Visible="True" />
+    <M地形数据 Visible="True" />
+    <MShape图层 Visible="True" />
+    <M导入注记 Visible="True" />
+    <M导入DXF Visible="True" />
+    <M导入模型装配 Visible="True" />
+    <M导入空间场 Visible="False" />
+    <M桥梁 Visible="True" />
+    <M图形转shp Visible="True" />
+    <M提取DEM Visible="True" />
+    <M导出DXF Visible="True" />
+    <M批量导入图层 Visible="True" />
+    <M导出表格 Visible="True" />
+  </M数据导入>
+  <M添加对象 Visible="True">
+    <M铁路自动建模 Visible="True" />
+    <M添加模型 Visible="True" />
+    <M图片标签 Visible="True" />
+    <M矩形 Visible="True" />
+    <M规则多边形 Visible="True" />
+    <M2D箭头 Visible="True" />
+    <M圆 Visible="True" />
+    <M椭圆 Visible="True" />
+    <M管线工具 Visible="False" />
+  </M添加对象>
+  <M虚拟施工工具 Visible="True">
+    <M视频管理 Visible="False" />
+    <M自动计算路径 Visible="False" />
+    <M视频播放 Visible="False" />
+    <M4D进度 Visible="False" />
+    <M提梁吊机 Visible="False" />
+    <M对象生命周期 Visible="False" />
+    <M汽车吊 Visible="False" />
+    <M吊装动画 Visible="False" />
+    <M塔吊 Visible="False" />
+    <M动画工具 Visible="False" />
+    <M时间条控制 Visible="False" />
+    <M模型整理 Visible="False" />
+  </M虚拟施工工具>
+  <M设置 Visible="True">
+    <M参数加密 Visible="True" />
+  </M设置>
+  <M图形分析 Visible="False">
+    <M长度角度变形测试 Visible="False" />
+  </M图形分析>
+  <M无人机巡检 Visible="False" />
+  <M量测查询 Visible="True">
+    <M土方计算 Visible="True" />
+  </M量测查询>
+  <M数据导入导出 Visible="True">
+    <M矢量数据 Visible="True" />
+    <M影像数据 Visible="True" />
+    <M地形数据 Visible="True" />
+    <MShape图层 Visible="True" />
+    <M导入DXF Visible="True" />
+    <M导入注记 Visible="True" />
+    <M导入模型装配 Visible="True" />
+    <M批量导入图层 Visible="True" />
+    <M导出DXF Visible="True" />
+    <M导出表格 Visible="True" />
+    <M导出shp Visible="True" />
+    <M图形转shp Visible="False" />
+    <M桥梁 Visible="False" />
+  </M数据导入导出>
+  <M数据整理 Visible="False" />
+  <M演示工具 Visible="False" />
+</MenuSettings>
